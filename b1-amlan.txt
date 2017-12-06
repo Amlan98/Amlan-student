@@ -1,0 +1,5 @@
+Name: Amlan Saha
+Email: amlan.saha.ece17@itbhu.ac.in
+phone: 9735267296
+branch: ece
+gender: male
